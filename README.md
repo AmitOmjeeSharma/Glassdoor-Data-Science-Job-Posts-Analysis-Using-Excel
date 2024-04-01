@@ -41,4 +41,10 @@ This dataset contains information about data science job postings scraped from G
 ## Usage
 These questions can serve as a starting point for exploring the dataset and extracting meaningful insights to inform decision-making processes in the job market.
 
-Feel free to explore the dataset further and derive additional insights!
+Feel free to explore the dataset further and derive additional insights!    
+
+![Dashboard SS](https://github.com/AmitOmjeeSharma/Glassdoor-Data-Science-Job-Posts-Analysis-Using-Excel/assets/124283889/39a12701-e205-4634-a54c-45f4ddc986ca)
+
+
+
+ 
